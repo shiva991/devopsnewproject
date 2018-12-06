@@ -1,2 +1,2 @@
 # devopsnewproject
-sample proj
+sample project
